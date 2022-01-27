@@ -1,0 +1,33 @@
+.books {
+}
+
+.books .container {
+  width: 75%;
+  text-align: justify;
+  line-height: 1.5;
+  padding-top: 50px;
+}
+
+.books img {
+  width: 15%;
+  border-radius: 10%;
+}
+
+.berserk {
+  position: relative;
+  top: 40px;
+}
+
+.books .book-content-odd, .book-content-even  {
+  padding:  50px 0 50px 0;
+}
+
+.books .book-content-odd img {
+  float: left;
+  margin-right: 50px;
+}
+
+.books .book-content-even img {
+  float: right;
+  margin-left: 50px;
+}
